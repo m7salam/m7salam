@@ -5,9 +5,9 @@
 I also like a series that is binge watching worthy,And PS4 in my free time too. ٩(●ᴗ●)۶
 
 
-Frontend: HTML, CSS, JavaScript, TypeScript, VueJs, NuxtJs
-Backend: Python, Java, SQL, NoSQL
-CI/CD: Docker, CircleCI
+- Frontend: HTML, CSS, JavaScript, TypeScript, VueJs, NuxtJs
+- Backend: Python, Java, SQL, NoSQL
+- CI/CD: Docker, CircleCI
 
 
 
