@@ -8,7 +8,7 @@ I also like a series that is binge watching worthy,And PS4 in my free time too. 
 - Frontend: HTML, CSS, JavaScript, TypeScript, VueJs, NuxtJs
 - Backend: Python, Java, SQL, NoSQL
 - CI/CD: Docker, CircleCI
-
+</ln>
 
 
 - 🔭 I’m currently working on mysalesminded.com,piamotech.com 
