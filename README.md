@@ -21,8 +21,6 @@ CI/CD: Docker, CircleCI
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=m7salam)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=m7salam&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/m7salam) 
