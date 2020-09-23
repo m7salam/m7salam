@@ -2,6 +2,11 @@
 
 1UNi is a SaaS-enabled market place powered by AI making it easy for students to get matched with programs and apply to top universities.
 
+## Video
+
+[![What is  1UNi?](https://img.youtube.com/vi/rwMWJydzsHI/0.jpg)](https://www.youtube.com/watch?v=rwMWJydzsHI "What is 1UNi")
+
+
 
 ## Tech Stack
 
