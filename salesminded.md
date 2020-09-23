@@ -2,6 +2,10 @@
 
 A leading end to end SaaS solution for Business to manage all their business operations from accounting, sales, hr, and operations and introducing them to new opportunities inside a rich ecosystem enabled by our partners in commerce.asia.
 
+## Video
+
+[![SalesMinded CBOS](https://img.youtube.com/vi/u3FMN6idAsY/0.jpg)](https://www.youtube.com/watch?v=u3FMN6idAsY "SalesMinded CBOS")
+
 
 ## Tech Stack
    - **frontend**: VueJs/JavaScript
