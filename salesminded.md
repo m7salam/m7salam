@@ -1,6 +1,6 @@
 ## Description
 
-a leading end to end SaaS solution for Business to manage all their business operations from accounting, sales, hr, and operations and introducing them to new opportunities inside a rich ecosystem enabled by our partners in commerce.asia.
+A leading end to end SaaS solution for Business to manage all their business operations from accounting, sales, hr, and operations and introducing them to new opportunities inside a rich ecosystem enabled by our partners in commerce.asia.
 
 
 ## Tech Stack
