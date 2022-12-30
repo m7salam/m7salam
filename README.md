@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mo Salam
+### Hi there 👋, my name is Mo
 #### I am a full-stack engineer
 
 
