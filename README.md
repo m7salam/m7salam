@@ -11,7 +11,7 @@ I also like a series that is binge watching worthy,And PS4 in my free time too. 
 </ln>
 
 
-- 🔭 I’m currently working on [pxr-legal.com](https://pxr-legal.com) @PXRTech 
+- 🔭 I’m currently working on [Alasco](https://alasco.de) @@alasco-tech 
 - 🌱 I’m currently learning more  CI/CD, Advanced Java, Flutter 
 - 💬 Ask me about Python, Java, CI/CD 
 - 📫 How to reach me: mosalam208@gmail.com 
