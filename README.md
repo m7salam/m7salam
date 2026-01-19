@@ -11,10 +11,10 @@ I also like a series that is binge watching worthy,And PS4 in my free time too. 
 </ln>
 
 
-- 🔭 I’m currently working on [Alasco](https://alasco.de) [@alasco-tech](https://github.com/alasco-tech) 
+- 🔭 I’m currently working on [Smicolon](https://smicolon.com) [@smicolon](https://github.com/smicolon) 
 - 🌱 I’m currently learning more  CI/CD, Advanced Java, Flutter 
 - 💬 Ask me about Python, Java, CI/CD 
-- 📫 How to reach me: mosalam208@gmail.com 
+- 📫 How to reach me: mohamed.hussein@smicolon.com
 
 ### Some of the projects I have worked on:
 ```
