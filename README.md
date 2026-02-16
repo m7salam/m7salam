@@ -1,49 +1,43 @@
-### Hi there 👋, my name is Mo
-#### I am a full-stack engineer
+# Hey, I'm Mo
+
+**Founder of [Smicolon](https://smicolon.com)** · Building tools that make developers' lives less miserable
+
+14+ years of shipping software across 4 countries. Started as an engineer, now I break things at a higher level.
+
+---
+
+### What I'm building
+
+**[Smicolon](https://smicolon.com)** — A dev tools company. We build products that developers actually want to use.
+**[smicolon.ai](https://smicolon.ai)** — Coming soon.
+
+Some things we've open-sourced:
+
+- **[ai-kit](https://github.com/smicolon/ai-kit)** — Convention packs for AI coding tools. 13 framework packs, 28 agents, 40 auto-enforcing skills. Works with Claude Code, Cursor, Copilot, and 12+ other tools.
+- **[smi-ui](https://github.com/smicolon/smi-ui)** — Animated React component library built with Tailwind CSS & Framer Motion. UI primitives, app blocks, and effects that don't look like every other SaaS.
 
 
-I also like a series that is binge watching worthy,And PS4 in my free time too. ٩(●ᴗ●)۶
+### What I work with
 
-
-- Frontend: HTML, CSS, JavaScript, TypeScript, VueJs, NuxtJs
-- Backend: Python, Java, SQL, NoSQL
-- CI/CD: Docker, CircleCI
-</ln>
-
-
-- 🔭 I’m currently working on [Smicolon](https://smicolon.com) [@smicolon](https://github.com/smicolon) 
-- 🌱 I’m currently learning more  CI/CD, Advanced Java, Flutter 
-- 💬 Ask me about Python, Java, CI/CD 
-- 📫 How to reach me: mohamed.hussein@smicolon.com
-
-### Some of the projects I have worked on:
 ```
-click on it for more details and screenshoots
+Python · TypeScript · Java · Go
+Django · NestJS · Next.js · Nuxt · Flutter
+PostgreSQL · Docker · Kubernetes · Terraform · Pulumi
 ```
-- [Piamotech](https://github.com/m7salam/m7salam/blob/master/piamotech.md)
-  * live website: [piamotech.com](https://piamotech.com)
-  * tech-stack:
-    - **frontend**: VueJs/Javascript
-    - **backend**: Django/DjangoRestFramework - PostgreSQL
-    - **CI/CD**: CircleCI - Docker/Docker-Compose
-- [SalesMinded](https://github.com/m7salam/m7salam/blob/master/salesminded.md)
-  * live website: [mysalesminded.com](https://mysalesminded.com)
-  * tech-stack:
-    - **frontend**: VueJs/JavaScript
-    - **backend**: Django/DjangoRestFramework - PostgreSQL
-    - **CI/CD**: CircleCI/ Docker/Docker-Compose
-- [1UNi](https://github.com/m7salam/m7salam/blob/master/1uni.md)
-  * live website: [1uni.net](https://1uni.net)
-  * tech-stack:
-    - **frontend**: AngularJs/JavaScript
-    - **backend**: Java - NodeJs - MongoDB 
-    - **CI/CD**: Shell scripts
-    
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/m7salam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/m7salam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m7salam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/m7salam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mosalam.me)  
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='50' height='50'></a>
+Honestly, with Claude Code on my side, tech stack is no longer an obstacle — it's a preference.
 
+### The short version
 
+- Founded Smicolon — building dev tools and shipping products
+- Went from Cairo to KL to Berlin to Munich — collecting cities like they're side quests
+- Mass into AI tooling right now - if your AI agent writes bad code, I probably have opinions
+- I speak Arabic, English, some German, and mass sarcasm
 
-![Profile views](https://gpvc.arturio.dev/m7salam) 
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m7salam/)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/m7salam)
+[![Smicolon](https://img.shields.io/badge/Smicolon-FF6B35?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](https://smicolon.com)
+
+**Email:** mohamed.hussein@smicolon.com
