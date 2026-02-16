@@ -37,7 +37,7 @@ Honestly, with Claude Code on my side, tech stack is no longer an obstacle — i
 ### Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m7salam/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/m7salam)
-[![Smicolon](https://img.shields.io/badge/Smicolon-FF6B35?style=flat&logo=data:image/svg+xml;base64,&logoColor=white)](https://smicolon.com)
+[![Smicolon LinkedIn](https://img.shields.io/badge/Smicolon_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/company/smicolon/)
+[![Smicolon](https://assets.smicolon.com/logo/Smicolon%20-%20H%20lockup-01.png)](https://smicolon.com)
 
 **Email:** mohamed.hussein@smicolon.com
