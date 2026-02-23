@@ -8,7 +8,7 @@
 
 ### What I'm building
 
-**[Smicolon](https://smicolon.com)** — A dev tools company. We build products that developers actually want to use.
+**[Smicolon](https://smicolon.com)** — A software tech solutions company. We build products that people actually want to use.
 **[smicolon.ai](https://smicolon.ai)** — Coming soon.
 
 Some things we've open-sourced:
